@@ -1,0 +1,16 @@
+{
+    "name": "login-avancado",
+    "version": "1.0.0",
+    "description": "Tela de login avançada e responsiva",
+    "scripts": {
+      "dev": "vite"
+    },
+    "dependencies": {
+      "bootstrap": "^5.3.0",
+      "@popperjs/core": "^2.11.8"
+    },
+    "devDependencies": {
+      "vite": "^4.3.9"
+    }
+  }
+  
